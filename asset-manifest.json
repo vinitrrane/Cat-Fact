@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cat-Fact/static/css/main.729d4672.css",
+    "main.js": "/Cat-Fact/static/js/main.2958130f.js",
+    "static/media/catfact.png": "/Cat-Fact/static/media/catfact.19eb64d21266e4ddf07c.png",
+    "index.html": "/Cat-Fact/index.html",
+    "main.729d4672.css.map": "/Cat-Fact/static/css/main.729d4672.css.map",
+    "main.2958130f.js.map": "/Cat-Fact/static/js/main.2958130f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.729d4672.css",
+    "static/js/main.2958130f.js"
+  ]
+}
